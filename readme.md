@@ -1,4 +1,4 @@
-## 🚀 Full Stack JavaScript & TypeScript Studies Repository
+# 🚀 Full Stack JavaScript & TypeScript Studies Repository
 
 Este repositório é dedicado aos meus estudos práticos e projetos focados no ecossistema JavaScript e TypeScript, abrangendo tanto o desenvolvimento **front-end** quanto o **back-end** (Full Stack).
 
@@ -8,7 +8,7 @@ O objetivo é consolidar o conhecimento através da criação de projetos, exemp
 
 Abaixo estão as principais áreas de foco deste repositório, refletindo as competências essenciais para um desenvolvedor Full Stack moderno:
 
-# 🌐 Back-end (Server-side)
+## 🌐 Back-end (Server-side)
 
 | Tecnologia/Conceito | Descrição |
 | :--- | :--- |
@@ -17,7 +17,7 @@ Abaixo estão as principais áreas de foco deste repositório, refletindo as com
 | **noSQL** | Estudo e prática com bancos de dados não-relacionais (ex: MongoDB, Redis) e suas integrações. |
 | **TypeScript** | Utilização de tipagem estática para aumentar a robustez e manutenibilidade do código. |
 
-# ⚛️ Front-end (Client-side)
+## ⚛️ Front-end (Client-side)
 
 | Tecnologia/Conceito | Descrição |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Abaixo estão as principais áreas de foco deste repositório, refletindo as com
 | **Redux** | Gerenciamento de estado global da aplicação (incluindo Redux Toolkit e padrões como Ducks). |
 | **TypeScript** | Aplicação de tipagem em componentes, estados e props do React. |
 
-# 🏗️ Conhecimentos Transversais
+## 🏗️ Conhecimentos Transversais
 
 | Conceito | Foco do Estudo |
 | :--- | :--- |
